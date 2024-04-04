@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes } from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
+import { HiOutlineMail } from 'react-icons/hi'
 import Logo from '../assets/logo.png';
 
 const Navbar = () => {
@@ -41,15 +42,25 @@ const Navbar = () => {
 
 
             {/** social icons */}
-            <div className="hidden">
-
+            <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
+                <ul>
+                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
+                        <a href="/" className="flex justify-between items-center w-full text-gray-300">
+                            LinkedIn <FaLinkedin size={30} />
+                        </a>
+                    </li>
+                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
+                        <a href="/" className="flex justify-between items-center w-full text-gray-300">
+                            GitHub <FaGithub size={30} />
+                        </a>
+                    </li>
+                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#8f7087]'>
+                        <a href="/" className="flex justify-between items-center w-full text-gray-300">
+                            Email <HiOutlineMail size={30} />
+                        </a>
+                    </li>
+                </ul>
             </div>
-
-            
-            
-
-
-
         </div>
     )
 }
