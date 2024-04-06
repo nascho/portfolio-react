@@ -14,13 +14,12 @@ const About = () => {
                     <div className='sm:text-right text-4xl font-bold'>
                         <p>Hi, I'm Nas, nice to meet you. Please take a look around.</p>
                     </div>
-                    <div>
+                    <div className='flex items-center'>
                         <p> 
                             I am passionate about building excellent software that improves
-                            the lives of those around me. I specialize in creating software
+                            the lives of those around me. I specialise in creating software
                             for clients ranging from individuals and small-businesses all the
-                            way to large enterprise corporations. What would you do if you had
-                            a software expert available at your fingertips?
+                            way to large enterprise corporations. 
                         </p>  
                     </div>
                 </div>
