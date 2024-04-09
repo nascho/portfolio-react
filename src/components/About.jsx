@@ -14,12 +14,9 @@ const About = () => {
                 <div className='text-4xl font-bold'>
                     <p>Hi, I'm Nas, nice to meet you. Please take a look around.</p>
                 </div>
-                <div className='flex items-center'>
+                <div className='text-justify'>
                     <p> 
-                        I am passionate about building excellent software that improves
-                        the lives of those around me. I specialise in creating software
-                        for clients ranging from individuals and small-businesses all the
-                        way to large enterprise corporations. 
+                        As an enthusiastic and dedicated software developer in both Python / WagtailCMS and JavaScript / NodeJS, I bring a positive attitude, a desire for learning, and a strong sense of discipline to every project. I am seeking opportunities to continuously expand my skill set while embracing diverse perspectives. I am passionate about contributing my expertise to a company that prioritises and advocates for a culture of diversity and inclusivity.
                     </p>  
                 </div>
             </div>
