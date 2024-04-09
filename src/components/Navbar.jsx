@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi'
-import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
 
 
@@ -12,8 +11,10 @@ const Navbar = () => {
 
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 border-b-2 border-pink-600'>
-            <div className="">
-                <img src={Logo} alt="Logo" className='w-[50px]'/>
+            <div className="text-4xl font-semibold hover:cursor-pointer">
+                <Link to="home" smooth={true} duration={500}>
+                    W23
+                </Link>
             </div>
 
             {/** menu using react-scroll */}
