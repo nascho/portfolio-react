@@ -31,7 +31,7 @@ const Projects = () => {
                 <span className="text-2xl font bold text-white tracking-wider ">
                     {item.name}
                 </span>
-                <div className="pt-8 text-center ">
+                <div className="pt-4 text-center ">
                     {/* Render Code button if github URL is not empty */}
                     {item.github && (
                         <a href={item.github} target="_blank" rel="noopener noreferrer">
@@ -39,15 +39,15 @@ const Projects = () => {
                                 className="text-center rounded-lg px-4 py-3 m-2
                                             bg-white text-gray-700 font-bold text-lg"
                             >
-                                Code
+                                GitHub
                             </button>
                         </a>
                     )}
                     {/* Render Live button if live URL is not empty */}
-                    {item.live && (
-                        <a href={item.live} target="_blank" rel="noopener noreferrer">
+                    {item.site && (
+                        <a href={item.site} target="_blank" rel="noopener noreferrer">
                             <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                                Live
+                                Visit Site
                             </button>
                         </a>
                     )}
