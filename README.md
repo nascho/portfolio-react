@@ -12,7 +12,7 @@ __Techologies Used__
 
 As part of the project the technologies we settled on were:
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blue?style=flat&logo=tailwind-css) ![PostCSS](https://img.shields.io/badge/PostCSS-v8.3.11-blue?style=flat&logo=postcss) ![React](https://img.shields.io/badge/React-v17.0.2-blue?style=flat&logo=react) ![React Icons](https://img.shields.io/badge/React%20Icons-gray?style=flat&logo=react) ![React Scroll](https://img.shields.io/badge/React%20Scroll-gray?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.2.19-blue?style=flat&logo=tailwind-css) ![PostCSS](https://img.shields.io/badge/PostCSS-v8.3.11-blue?style=flat&logo=postcss) ![React](https://img.shields.io/badge/React-v17.0.2-blue?style=flat&logo=react) ![React Icons](https://img.shields.io/badge/React%20Icons-gray?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## Installation & Running Project
 
