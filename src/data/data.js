@@ -1,34 +1,37 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import PCU from '../assets/projects/pcu.png';
+import PHAA from '../assets/projects/phaa.png';
+import Discord from '../assets/projects/discord.png';
+import Blog from '../assets/projects/blog.png';
+
 
 export const data = [ 
     {
         id:1,
-        name:"React JS Application - 1",
-        image:WorkIm,
-        github:"https://github.com/nascho/portfolio-react",
-        live:"https://github.com/nascho/portfolio-react",
+        name:"Python, BootStrap & Wagtail website for Person Centred Universe",
+        image:PCU,
+        github:"",
+        site:"https://www.personcentreduniverse.com",
     },
     {
         id:2,
-        name:"React JS Application - 2",
-        image:RealEst,
-        github:"",
-        live:"https://github.com/nascho/portfolio-react",
+        name:"HTML, CSS & Vanilla JavaScript for Founders & Coders",
+        image:PHAA,
+        github:"https://github.com/fac30/nas-isaac-bahja-agency.git",
+        site:"",
     },
     {
         id:3,
-        name:"React JS Application - 3",
-        image:WorkIm,
-        github:"https://github.com/nascho/portfolio-react",
-        live:"",
+        name:"Discord OpenAI Chatbot & Jest Testing Framework for Founders & Coders",
+        image:Discord,
+        github:"https://github.com/fac30/bahja-isaac-nas-discord-chatbot.git",
+        site:"",
     },
     {
         id:4,
-        name:"React JS Application - 4",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"BootStrap, JavaScript, EJS, NodeJS, Mongoose, MongoDB & OpenAI blog site for Founders & Coders",
+        image:Blog,
+        github:"https://github.com/fac30/ali-nas-travel-blog.git",
+        site:"",
     },
-]
 
+]
