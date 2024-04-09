@@ -2,6 +2,7 @@ import PCU from '../assets/projects/pcu.png';
 import PHAA from '../assets/projects/phaa.png';
 import Discord from '../assets/projects/discord.png';
 import Blog from '../assets/projects/blog.png';
+import Todo from '../assets/projects/todo.png';
 
 
 export const data = [ 
@@ -28,9 +29,16 @@ export const data = [
     },
     {
         id:4,
-        name:"BootStrap, JavaScript, EJS, NodeJS, Mongoose, MongoDB & OpenAI blog site for Founders & Coders",
+        name:"BootStrap, JavaScript, EJS, NodeJS, Mongoose, MongoDB & OpenAI Blog site for Founders & Coders",
         image:Blog,
         github:"https://github.com/fac30/ali-nas-travel-blog.git",
+        site:"",
+    },
+    {
+        id:4,
+        name:"HTML, CSS & Vanilla JavaScript Todo Application",
+        image:Todo,
+        github:"https://github.com/nascho/todo_list.git",
         site:"",
     },
 
