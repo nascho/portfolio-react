@@ -20,7 +20,7 @@ const Home = () => {
                 Currently, I'm focused on building JavaScript and Node based responsive full stack web applications.
             </p>
             <div>
-                <Link to="projects">
+                <Link to="projects" smooth={true} duration={500} offset={-80}>
                     <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
                         View Projects 
                         <span className='group-hover:rotate-90 duration-300'>
