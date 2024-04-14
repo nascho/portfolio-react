@@ -5,7 +5,7 @@
 
 ## Description 
 
-This repository is my portfolio site for [Web23](https://www.web23.uk/ "Go to Web23 website"), where I can display the projects I have worked on both personally and collaboratively.
+This repository is my portfolio site for [Web23](https://web23.uk/ "Go to Web23 website"), where I can display the projects I have worked on both personally and collaboratively.
 
 
 __Techologies Used__ 
