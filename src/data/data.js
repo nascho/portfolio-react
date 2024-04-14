@@ -8,21 +8,21 @@ import Todo from '../assets/projects/todo.png';
 export const data = [ 
     {
         id:1,
-        name:"Python, BootStrap & Wagtail website for Person Centred Universe",
+        name:"BootStrap, Python & Wagtail CMS for Person Centred Universe website",
         image:PCU,
         github:"",
         site:"https://www.personcentreduniverse.com",
     },
     {
         id:2,
-        name:"HTML, CSS & Vanilla JavaScript for Founders & Coders",
+        name:"HTML, CSS & JavaScript, Adoption Agency website for Founders & Coders",
         image:PHAA,
         github:"https://github.com/fac30/nas-isaac-bahja-agency.git",
         site:"",
     },
     {
         id:3,
-        name:"Discord OpenAI Chatbot & Jest Testing Framework for Founders & Coders",
+        name:"JavaScript & Jest Test Framework, Discord OpenAI Chatbot for Founders & Coders",
         image:Discord,
         github:"https://github.com/fac30/bahja-isaac-nas-discord-chatbot.git",
         site:"",
@@ -36,7 +36,7 @@ export const data = [
     },
     {
         id:4,
-        name:"HTML, CSS & Vanilla JavaScript Todo Application",
+        name:"HTML, CSS & JavaScript Todo Application",
         image:Todo,
         github:"https://github.com/nascho/todo_list.git",
         site:"",
