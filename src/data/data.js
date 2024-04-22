@@ -19,7 +19,7 @@ export const data = [
         name:"HTML, CSS, ReactJS, JavaScript & NodeJS - Calculator App",
         image:Calculator,
         github:"https://github.com/nascho/react-calculator.git",
-        site:"http://44.202.41.185",
+        site:"http://3.83.9.213/",
     },
     {
         id:3,
